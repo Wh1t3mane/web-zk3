@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+    color: rgb(255, 5, 5);
+    font-size: 20px;
+}
+
+h1 {
+    color: black;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+* {
+    background-color: rgb(190, 190, 190);
+}
+
